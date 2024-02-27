@@ -53,7 +53,8 @@ body {background-color:  rgb(237, 237, 228);}
 
    @media screen and (max-width:800px){
 
-    .intro {padding-left: 1.5em;}
+    .intro {padding-left: 1.5em;
+           padding-right:1.5em;}
     
     .button {margin-left:15em;
     font-size: 12px;}
